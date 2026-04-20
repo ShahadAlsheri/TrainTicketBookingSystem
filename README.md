@@ -1,4 +1,4 @@
-# Train Ticket Booking System (CPCS204 - Programming 3)
+# Train Ticket Booking System 
 
 ## Project Overview
 This is a Train Ticket Booking System implemented in Java.  
@@ -36,4 +36,3 @@ The system uses custom Queue and Stack data structures to handle confirmed and w
 - Input commands are read from `input.txt`.  
 - Output is written to `output.txt`.  
 - No external libraries are required.  
-- This is an academic project for CPCS204.
